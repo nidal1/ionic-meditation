@@ -1,0 +1,7 @@
+{
+  "name": "meditation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,36 @@
+@import '../theme/base';
+@import '../theme/mixin';
+
+.home_inner_items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0px 27px !important;
+
+    img {
+        margin-top: 116px !important;
+    }
+
+    h1 {
+        font-size: 34px;
+        font-weight: 700;
+        margin-top: 30px !important;
+    }
+
+    .sub_heading {
+        font-size: 20px;
+        line-height: 24px;
+        font-weight: 500;
+        text-transform: none !important;
+        text-align: center;
+        margin-top: 7px !important;
+    }
+
+    .home_btn {
+        @include btn;
+        margin-top: 119px !important;
+
+    }
+}

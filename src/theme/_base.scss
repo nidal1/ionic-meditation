@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300;400;500;700&display=swap');
+
+:root{
+    font-size: 16px !important;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Alegreya', serif !important;
+    text-transform: capitalize !important;
+    font-weight: 400 !important;
+    font-size: inherit;
+    color: white !important;
+}

@@ -1,0 +1,62 @@
+@import '../theme/base';
+@import '../theme/mixin';
+
+
+
+.auth_base_inner_items {
+    padding: 0px 27px !important;
+
+    img {
+        margin-top: 101px !important;
+    }
+
+    h2 {
+        font-size: 30px;
+        font-weight: 500;
+        margin-top: 31px !important;
+    }
+
+    .sub_heading {
+        font-family: 'Alegreya Sans', serif !important;
+        font-size: 22px;
+        font-weight: 300 !important;
+        line-height: 26.4px;
+        margin-Bottom: 40px !important;
+
+    }
+
+    .auth_input_container {
+        --background: transparent;
+        --highlight-color-focused: transparent;
+        --background-focused: transparent;
+        --border-color:#BEC2C2 !important ;
+
+        .auth_input {
+            --placeholder-color:#BEC2C2 !important;
+            font-size: 18px;
+            font-family: 'Alegreya Sans', serif !important;
+            font-weight: 300 !important;
+        }
+
+        &:not(:last-of-type){
+            margin-bottom: 24px !important;
+        }
+    }
+
+
+    .auth_forgot_password{
+        text-align: right;
+        margin-top: 9px !important;
+        color: #BEC2C2 !important;
+
+        a{
+            color: inherit !important;
+        }
+    }
+
+    .auth_btn {
+        @include btn;
+        margin-top: 29px !important;
+        text-transform: uppercase !important;
+    }
+}
