@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 40" width="38" height="40">
+	<title>Anxious-svg</title>
+	<defs>
+		<image  width="44" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAqCAMAAAD/A0kuAAAAAXNSR0IB2cksfwAAAFRQTFRFAAAAJTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0JTM0hTmeFgAAABx0Uk5TACBvn7/v/69f3xAwwKCAUEBg4H/QkPDPcLCPT4+EOfsAAAJCSURBVHicpZWBsqMgDEWhSqogCIpod///PzcJqNjatzuzzHRa4RhubggV4n+GfDStAhzt8yF/RrsW6tE/9FfUMDpYN3ofnJ3wQc1f2BkXY6himSUBrOaObQDS9janXQIVbtl4o1BGgA962Vk5P3syo+nKqxZgvLIBWUaflRmNLLS66NYKEq0EdbFOPXg1Ql8LxK18jo/Wbd5oPy4TB+dQEyxVFogUdvK+Ic3PTgQ0LlMeQNaBUZVBDfEU3XuNTuTkXmAPxTkw1m+SayU5EK1IrslfxYrAe4GhuNOC1R6YNqkIiYfZqEJzYDsiYXOMjdyQDnhNuCPFARJrARIRK+vxRQy9cYpDmVb0i8piIFt4bAgSK7vSA0CZ5fxwQ4ef6WIoBMrkE14yPJywQAlOANv6BmP6HmFbwQPBKSs74Al6VuhCEVjDQ4GHc5I1W3bkhBXBimFzwI6KipkocdHBCYpskD98NowkWopVaCqLlNmNDY6Ow0ZjO3qtzyOjezJyy2WycJx/S0EpxqpF2MU1rKIn3UKsuxmsrs/brnsBNbExSyHgdeZt+X3LvUGNan5RfyWjVQ681R0uc53spQOTwd0h0aF7Qd2ELp9y7qQyBlNk04msVOTC0EWlt5jRlxearj72JrzdM9xB3G/a48DvTu2sWNPbXUX3FLS/96eOWrywnpO8xua2U+08z01u2/2ebN8Ds7QqvbMZ0aqPwBw8xJ2M2xGtTd/+L7TfnAu+mhnvA9+/3ce/Q/tY4PZ/4nbc2PZv4w+21B9tlnE1jQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer" href="#img1" x="-4" y="-1" />
+</svg>

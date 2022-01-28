@@ -1,0 +1,10 @@
+.container{
+    background-color: #253334;
+    height: 100%;
+    
+    .tab-bar{
+        --background: rgba(0,0,0,0);
+        border: none;
+        height: percentage(calc((94px / 812px)));
+    }
+}

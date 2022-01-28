@@ -6,7 +6,7 @@ function Signin() {
     return (
         <IonPage>
             <IonContent fullscreen >
-                <AuthBase showForgotPasswordLink btnText="LOGIN" goTo="signup"/>
+                <AuthBase showForgotPasswordLink btnText="LOGIN" goTo="signup" headingText={"Sign In"} subheading={"Sign in now to acces your excercises and saved music."}/>
             </IonContent>
         </IonPage>
     )
